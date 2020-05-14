@@ -2,6 +2,6 @@
 
 int main()
 {
-  printf("Hello to all.\r\n\r\nWelcome to Github learning.\r\nThis part is added only in Branch.\r\n\r\nAlso testing if PUSH notification works.\r\n");
+  printf("Hello to all.Welcome to Github learning.\r\nThis part is added only in Branch.\r\nAlso testing if PUSH notification works.\r\n");
   return 0;
 }
